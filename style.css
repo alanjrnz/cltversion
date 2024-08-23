@@ -1,0 +1,33 @@
+*{
+    background-color: ;
+
+}
+
+
+.main{
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 10px;
+    
+}
+
+.h1{
+    background-color: rgba(0, 0, 255, 0.493);
+    border-radius: 10px;
+    color: aliceblue;
+    margin-left: 50px;
+    margin-right: 50px;
+ 
+    
+}
+
+.p{
+    text-align: left;
+    background-color: ;
+    border-radius: 5px;
+    color: black;
+    font-size: 17px;
+    margin-left: 70px;
+
+}
