@@ -1,7 +1,8 @@
 echo "# cltversion" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/alanjrnz/cltversion.git
-git push -u origin main
+git init  inicia o repositorio
+git add README.md  adiciona o arquivo readme
+git add . Adiciona todos os arquivos
+git commit -m "first commit" Dá o nome ao commit
+git branch -M main  Seta a branch
+git remote add origin https://github.com/alanjrnz/cltversion.git    Adiciona repositorio remoto
+git push -u origin main      E envia as atualizações para o repositorio
